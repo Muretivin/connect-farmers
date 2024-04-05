@@ -1,0 +1,25 @@
+.mini{
+    height: 50px;
+    margin-right: 10px;
+    width: 50px;
+    float: left;
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    background-color: white;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.button > Button{
+    color: blue;
+    padding-left: 10px;
+    width: 50px;
+}
