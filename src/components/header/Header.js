@@ -37,7 +37,7 @@ function Header() {
             <Link to='/' className='link'><HeaderOption Icon={HomeIcon} title='Home'/></Link>
             <HeaderOption Icon={SupervisorAccountIcon} title='My Network'/>
             <HeaderOption Icon={BusinessCenterIcon} title='jobs'/>
-            <HeaderOption Icon={ShopIcon} title='Shop'/>
+            <Link to="/farmer" className='link'><HeaderOption Icon={ShopIcon} title='Shop'/></Link>
             <HeaderOption Icon={NotificationsIcon} title='Notifications'/>
             <HeaderOption Icon={ChatIcon} title='Messages'/>
             <Link to="/records" className='link'><HeaderOption Icon={DriveFileRenameOutlineIcon} title='My Data'/></Link>

@@ -64,12 +64,11 @@ function App() {
               <Route path="/add" element={<AddEditUser />} />
               <Route path="/update/:id" element={<AddEditUser />} />
               <Route path="/" element={<CombineHome />} />
-              <Route path="/records" element={<Ome />} />
             </Routes>
           
               
             </div>
-            <Footer />
+          
           </>
         )}
       </Router>

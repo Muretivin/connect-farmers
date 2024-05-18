@@ -27,10 +27,11 @@ const Nabar = () => {
 
             </Menu.Item>
         </Container>
-        <Ome />
     </Menu>
+    <Ome />
     
     </>
+    
   )
 }
 

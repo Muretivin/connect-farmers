@@ -1,22 +1,22 @@
 export const sliderData = [
     {
-      image: "https://i.ibb.co/CBGRLhG/bg-4.jpg",
-      heading: "Shoes Villa",
+      image: "https://vtv1.mediacdn.vn/2019/img20190924094112860.jpg",
+      heading: "agricultural products",
       desc: "Up to 30% off on all onsale proucts.",
     },
     {
-      image: "https://i.ibb.co/cDLBk5h/bg-1.jpg",
-      heading: "Women Fashion",
+      image: "https://www.happyfeeds.co.ke/wp-content/uploads/2011/05/img-2-min-3.png",
+      heading: "Animal products",
       desc: "Up to 30% off on all onsale proucts.",
     },
     {
-      image: "https://i.ibb.co/HXjD3V0/bg-2.jpg",
-      heading: "Men Fashion",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gjmXm1FwDC8cmElF28PaHmgygAGsFatxs4V_SujJLA&s",
+      heading: "cash crops",
       desc: "Up to 30% off on all onsale proucts.",
     },
     {
-      image: "https://i.ibb.co/H2FRmtV/bg-3.jpg",
-      heading: "Awesome Gadgets",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bIBgmdAAGmzjU7MrQNGKhlU3j9Lve2Z7jO2YH0vWQg&s",
+      heading: "Awesome Fruits",
       desc: "Up to 30% off on all onsale proucts.",
     },
   ];
